@@ -24,4 +24,3 @@ This Script uses the Tilemap Node functionalities, so it gets the PNG data and r
 
 4. The script will link the tilemap index with the colors index
 
-![Step4](assets/images/step4.png)
