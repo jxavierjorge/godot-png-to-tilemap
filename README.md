@@ -31,4 +31,4 @@ This Script uses the Tilemap Node functionalities, so it gets the PNG data and r
 
 ![RawBiggerMap](assets/images/ship9_raw.png)
 
-![GenBiggerMap](assets/images/ship9_gen.png)
+![GenBiggerMap](assets/images/ship9_gen.PNG)
